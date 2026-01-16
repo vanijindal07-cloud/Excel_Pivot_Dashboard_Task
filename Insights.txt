@@ -1,0 +1,20 @@
+
+ Sales by category
+Electronics is the highest revenue-generating category, contributing the largest portion of total sales.
+Sports & Outdoors and Clothing also perform well, showing consistent customer demand.
+Home & Kitchen contributes comparatively less, indicating potential areas for growth.
+The pivot chart clearly shows Electronics dominates total sales, making it the top-performing category.
+Other categories like Sports & Outdoors and Clothing contribute moderately, with Home & Kitchen at the lower end.
+Visual representation makes trends easier to interpret and compare than raw numbers in tables.
+
+
+Sale by state and Category
+Sales performance varies across states, with some states contributing more significantly to overall sales.
+Certain states consistently show medium sales across categories, highlighting stable but moderate revenue.
+Conditional formatting makes it easy to identify states and categories with higher and lower contributions. 
+
+
+Profit Margin
+Categories such as Electronics show higher average profit margins compared to other categories.
+Profit margin differs across states, highlighting regional variations in efficiency or cost.
+Lower margins in certain states or categories suggest opportunities to optimize cost or pricing.
